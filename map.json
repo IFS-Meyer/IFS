@@ -343,7 +343,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sprache2.htm"
+                 "value":"sprache.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
