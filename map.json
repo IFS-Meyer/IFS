@@ -343,7 +343,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"infos\/sprach2.htm"
+                 "value":"sprach2.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,7 +361,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"infos\/jahr2.htm"
+                 "value":"jahr2.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"infos\/jahr1.htm"
+                 "value":"jahr1.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
